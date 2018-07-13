@@ -12,7 +12,7 @@ return array
 function whileLoop(N){
   var countdown = 50;
   
-  while(countdown > 0) {
+  while(n > 0) {
     console.log(-- countdown)
   }
   return N
