@@ -9,7 +9,7 @@ function forLoop(array){
 return array
 }
 
-function whileLoop(n){
+function whileLoop(Number){
   var countdown = 50;
   
   while(n > 0) {
