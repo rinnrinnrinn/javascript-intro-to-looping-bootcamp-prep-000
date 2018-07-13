@@ -8,3 +8,13 @@ function forLoop(array){
 }
 return array
 }
+
+function whileLoop(Number){
+  var countdown = 50;
+  
+  while(countdown > 0) {
+    console.log(-- countdown)
+  }
+  return Number
+  console.log("done");
+}
