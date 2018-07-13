@@ -9,12 +9,12 @@ function forLoop(array){
 return array
 }
 
-function whileLoop(Number){
+function whileLoop(N){
   var countdown = 50;
   
   while(countdown > 0) {
     console.log(-- countdown)
   }
-  return Number
+  return N
   console.log("done");
 }
