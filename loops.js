@@ -13,7 +13,7 @@ function whileLoop(N){
   var countdown = 50;
   
   while(n > 0) {
-    console.log(-- countdown)
+    console.log(n--)
   }
   return N
   console.log("done");
